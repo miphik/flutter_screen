@@ -1,4 +1,4 @@
-package flutter.plugins.screen.screenexample;
+package example.android.app.src.main.java.flutter.plugins.screen.screenexample;
 
 import android.os.Bundle;
 
